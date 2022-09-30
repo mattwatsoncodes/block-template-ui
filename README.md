@@ -2,7 +2,7 @@
 Proof of Concept User Interface for WordPress Block Templates.
 
 ## Creating a Page Template
-To create a page template just layout you’re blocks the same as you would as normal. Use the meta box to indicate where the template should be applied, and then when you create a post the template will be applied.
+To create a page template just layout your blocks the same as you would as normal. Use the meta box to indicate where the template should be used, and then when you create a post the template will be applied.
 
 Note how blocks can be locked. A PoC plugin exists to restrict this further so a block cannot be changed at all based on user role.
 
